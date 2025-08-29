@@ -9,9 +9,7 @@ The Notes App is a simple web application that allows users to create, manage, a
 - Trash notes: Users can move notes to the trash when they are no longer needed, and the notes will be stored in the trash section until deleted permanently.
 - Responsive design: The app is responsive and works seamlessly on various devices, including desktops, tablets, and smartphones.
 
-## Live Demo
 
-You can access the live demo of the Notes App at [https://notes-26.netlify.app/](https://notes-26.netlify.app/).
 
 ## Technologies Used
 
@@ -37,14 +35,5 @@ The Notes App is built using the following technologies and React hooks:
 
 6. **Permanently Delete Notes**: To permanently delete a note, click the "Delete" button next to the note in the trash section.
 
-## Local Development
-
-If you want to run the Notes App locally on your machine, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/notes-app.git`
-2. Navigate to the project folder: `cd notes-app`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your web browser and go to `http://localhost:3000` to access the app.
 
 
